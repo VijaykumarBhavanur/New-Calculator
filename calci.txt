@@ -23,4 +23,14 @@ mul=num1 * num2
 echo $mul
 
 
+num1=23
+num2=56
+
+div=num1 / num2
+
+echo $div
+
+
+
+
 
