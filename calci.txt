@@ -15,4 +15,12 @@ sub=num1 - num2
 
 echo $sub
 
+num1=23
+num2=56
+
+mul=num1 * num2
+
+echo $mul
+
+
 
